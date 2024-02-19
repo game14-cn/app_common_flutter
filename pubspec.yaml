@@ -19,7 +19,7 @@ dependencies:
   logger: ^2.0.1
   pull_to_refresh:
     git:
-      url: https://github.com/huhx/flutter_pulltorefresh
+      url: https://github.com/game14-cn/flutter_pulltorefresh
       ref: main
   lunar: ^1.6.1
   crypto: ^3.0.3
